@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for PH Outsource	</title>
-	<atom:link href="httphmenorjr.github.io/phousource/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>httphmenorjr.github.io/phousource/</link>
+	<atom:link href="/phoutsource/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/phoutsource/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 Aug 2023 06:05:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

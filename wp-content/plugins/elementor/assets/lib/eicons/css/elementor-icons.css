@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
-  src: url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("httphmenorjr.github.io/phousource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
+  src: url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
+  src: url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("/phoutsource/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
