@@ -1,7 +1,7 @@
 # phoutsource
 Website for an outsourcing company in the Philippines involved in web development and web hosting.
 
-## What's under the hood?
+## Buit with
 - WordPress 6.3
   - Apache
   - PHP 8.1.9
